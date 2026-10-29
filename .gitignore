@@ -1,0 +1,13 @@
+# .NET build output
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+publish/
+
+# Never commit local settings or keys
+settings.json
+*.env
+.env
